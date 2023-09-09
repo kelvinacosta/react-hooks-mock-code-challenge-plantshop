@@ -41,6 +41,12 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "Palm",
+      "image": "https://www.thespruce.com/thmb/LcFPMZ1Bk2PiHXNJfvUhO4k7i24=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/grow-areca-palms-indoors-1902876-11-3b51235065c948c2bcc082e81ba08ca3.jpg",
+      "price": 1.05,
+      "id": 8
     }
   ]
 }
